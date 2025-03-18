@@ -11,7 +11,7 @@
             <a href="#features" class="btn btn-outline">See How It Works</a>
           </div>
           <div class="hero-image">
-            <img src="/images/hero-dashboard.png" alt="SocialMediaClipper Dashboard" width="800" height="450">
+            <!-- <img src="~/assets/images/hero-dashboard.png" alt="SocialMediaClipper Dashboard" width="800" height="450"> -->
           </div>
         </div>
       </div>
